@@ -49,7 +49,7 @@ O jogo é todo feito no terminal, com entrada e saída padrão, sendo uma excele
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/tictactoe-python.git
+git clone https://github.com/rafaelmoreirax/tictactoe-python.git
 cd tictactoe-python
 ```
 
